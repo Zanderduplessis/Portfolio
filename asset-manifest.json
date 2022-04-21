@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.8a93a796.css",
+    "main.js": "/Portfolio/static/js/main.6737d346.js",
+    "static/js/787.2e62601e.chunk.js": "/Portfolio/static/js/787.2e62601e.chunk.js",
+    "static/media/videoBg.mp4": "/Portfolio/static/media/videoBg.56441fcbb87daf6a532a.mp4",
+    "static/media/snow.gif": "/Portfolio/static/media/snow.10dd8a8b4bd7e0f39f2d.gif",
+    "static/media/Detailed Markes.pdf": "/Portfolio/static/media/Detailed Markes.26e63d5a175c1de60168.pdf",
+    "static/media/Java.png": "/Portfolio/static/media/Java.16056551011add55fa55.png",
+    "static/media/Zander Du Plessis_CV.pdf": "/Portfolio/static/media/Zander Du Plessis_CV.dff337cfc45fc8275a9d.pdf",
+    "static/media/Zpic.png": "/Portfolio/static/media/Zpic.30057a75537550ed198a.png",
+    "static/media/Anton-Regular.ttf": "/Portfolio/static/media/Anton-Regular.170b842f9a8cd6150a0d.ttf",
+    "static/media/Quattrocento-Regular.ttf": "/Portfolio/static/media/Quattrocento-Regular.3b6921fe322591f9f012.ttf",
+    "static/media/Jambetica Regular.ttf": "/Portfolio/static/media/Jambetica Regular.713690b4907698d69246.ttf",
+    "static/media/Karla-VariableFont_wght.ttf": "/Portfolio/static/media/Karla-VariableFont_wght.516621e72b5c4bcbabec.ttf",
+    "static/media/Zander Du Plessis_Cover letter.pdf": "/Portfolio/static/media/Zander Du Plessis_Cover letter.7d72afad5f7a6a2d527f.pdf",
+    "static/media/python.jpg": "/Portfolio/static/media/python.16e890208bca9921aaa8.jpg",
+    "static/media/Reyes.ttf": "/Portfolio/static/media/Reyes.91afd19dc5be83f9d183.ttf",
+    "index.html": "/Portfolio/index.html",
+    "main.8a93a796.css.map": "/Portfolio/static/css/main.8a93a796.css.map",
+    "main.6737d346.js.map": "/Portfolio/static/js/main.6737d346.js.map",
+    "787.2e62601e.chunk.js.map": "/Portfolio/static/js/787.2e62601e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a93a796.css",
+    "static/js/main.6737d346.js"
+  ]
+}
